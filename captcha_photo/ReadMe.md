@@ -2,11 +2,11 @@
 
 ### In this , include :
 
-> [color=#0095e0]  Two directory of Captcha Image
+>  Two directory of Captcha Image
 
-> [color=#0095e0]  Google Chome driver
+>  Google Chome driver
 
-> [color=#0095e0]  Captcha Crawler Python File
+>  Captcha Crawler Python File
 
 ---
 
@@ -19,6 +19,6 @@
 ### Run this can successfully grab the captcha from : [Taiwan Railways Administration](http://railway.hinet.net/Foreign/TW/etkind1.html)
 
        
-      python get_captcha.py 
+python get_captcha.py 
             
 
