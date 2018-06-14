@@ -1,4 +1,4 @@
 # Captcha Breaker
 ---
 
-![demo](img/demo.png)
+![demo](img/taiwan_railways.png)
