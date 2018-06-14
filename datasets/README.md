@@ -1,12 +1,10 @@
-# A: Original Captcha
+# A: original captcha
 ![demo](../img/a.png)
 ---
-
-# B: Thresholding Captcha
+# B: thresholding captcha
 ![demo](../img/b.png)
 ---
-
-# C: Digits in Captcha
+# C: digits in captcha
 ![demo](../img/c.png)
 
 
