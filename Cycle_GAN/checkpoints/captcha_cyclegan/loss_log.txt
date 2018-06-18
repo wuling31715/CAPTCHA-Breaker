@@ -1,0 +1,8 @@
+================ Training Loss (Sat Jun 16 23:53:11 2018) ================
+(epoch: 1, iters: 100, time: 104.626, data: 3.347) D_A: 0.276 G_A: 0.368 cycle_A: 1.318 idt_A: 0.401 D_B: 0.229 G_B: 0.175 cycle_B: 0.833 idt_B: 0.654 
+(epoch: 1, iters: 200, time: 102.850, data: 0.006) D_A: 0.143 G_A: 0.389 cycle_A: 2.569 idt_A: 0.285 D_B: 0.348 G_B: 0.179 cycle_B: 0.624 idt_B: 1.228 
+(epoch: 1, iters: 300, time: 111.760, data: 0.005) D_A: 0.438 G_A: 0.587 cycle_A: 0.798 idt_A: 0.142 D_B: 0.236 G_B: 0.381 cycle_B: 0.300 idt_B: 0.395 
+(epoch: 1, iters: 400, time: 119.223, data: 0.014) D_A: 0.324 G_A: 0.295 cycle_A: 1.397 idt_A: 0.200 D_B: 0.280 G_B: 0.264 cycle_B: 0.378 idt_B: 0.558 
+(epoch: 1, iters: 500, time: 111.702, data: 0.012) D_A: 0.164 G_A: 0.204 cycle_A: 1.410 idt_A: 0.233 D_B: 0.205 G_B: 0.368 cycle_B: 0.559 idt_B: 0.696 
+(epoch: 1, iters: 600, time: 104.576, data: 0.005) D_A: 0.364 G_A: 0.677 cycle_A: 2.021 idt_A: 0.200 D_B: 0.234 G_B: 0.308 cycle_B: 0.453 idt_B: 0.982 
+(epoch: 1, iters: 700, time: 116.214, data: 0.005) D_A: 0.498 G_A: 0.096 cycle_A: 0.728 idt_A: 0.154 D_B: 0.219 G_B: 0.313 cycle_B: 0.327 idt_B: 0.316 
