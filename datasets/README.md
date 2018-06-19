@@ -1,14 +1,14 @@
 # Description
-* A: original captcha
+* Original Captcha
 ---
-![A](../img/a.png)
+![Original Captcha](../img/a.png)
 ---
-* B: thresholding captcha
+* Thresholding Captcha
 ---
-![B](../img/b.png)
+![Thresholding Captcha](../img/b.png)
 ---
-* C: digit in captcha
+* Digit in Captcha
 ---
-![C](../img/c.png)
+![Digit in Captcha](../img/c.png)
 
 
