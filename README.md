@@ -3,6 +3,7 @@
 ### Taiwan Railways
 ![demo](img/taiwan_railways.png)
 ---
+# Enhance Captcha
 ### Original Captcha
 ![demo](img/0.png)
 ### Thresholding Captcha
