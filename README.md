@@ -1,7 +1,10 @@
 # Captcha Breaker
 ![demo](img/taiwan_railways.png)
+### Original Captcha
 ![demo](img/0.png)
+### Thresholding Captcha
 ![demo](img/1.png)
+### Transforming Captcha
 ![demo](img/2.png)
 ![demo](img/3.png)
 ![demo](img/4.png)
