@@ -1,5 +1,0 @@
-================ Training Loss (Sun Jun 17 08:00:01 2018) ================
-(epoch: 1, iters: 100, time: 114.653, data: 0.767) D_A: 0.209 G_A: 0.370 cycle_A: 2.035 idt_A: 1.571 D_B: 0.481 G_B: 0.204 cycle_B: 3.082 idt_B: 1.029 
-(epoch: 1, iters: 200, time: 121.078, data: 0.010) D_A: 0.235 G_A: 0.373 cycle_A: 1.307 idt_A: 1.135 D_B: 0.255 G_B: 0.289 cycle_B: 2.428 idt_B: 0.675 
-(epoch: 1, iters: 300, time: 112.777, data: 0.003) D_A: 0.211 G_A: 0.566 cycle_A: 1.477 idt_A: 1.790 D_B: 0.214 G_B: 0.318 cycle_B: 3.992 idt_B: 0.697 
-(epoch: 1, iters: 400, time: 115.413, data: 0.004) D_A: 0.178 G_A: 0.347 cycle_A: 1.173 idt_A: 0.912 D_B: 0.176 G_B: 0.423 cycle_B: 2.369 idt_B: 0.585 
